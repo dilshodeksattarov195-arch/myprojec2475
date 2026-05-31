@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenuelete",
+        "uuid": 9697050,
+        "checksum": "5vmijn"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
